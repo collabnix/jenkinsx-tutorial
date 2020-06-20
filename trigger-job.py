@@ -2,10 +2,10 @@ import requests
 import sys
 import time
 
-projectId = "ADD YOUR PROJECT ID"
-jobId = "ADD YOUR JOB ID"
-apiKey = "ADD YOUR API KEY"
-agentId = "ADD YOUR AGENT ID"
+projectId = "ZUcm4zmEq0GrLCFEa2UgtQ"
+jobId = "EYQJ3tmcNkKqHhBOJ14P7w"
+apiKey = "OeyCmOn4n6NEZJw2SgfZz9cBC0MzuUkPq1lhvIijNS81"
+agentId = "ZEBz4h3YZUOxb5s8xTgVeg"
 apiUrl = "https://api.testproject.io/"
 url = apiUrl + 'v2/projects/' + projectId + '/jobs/' + jobId + '/run'
 
